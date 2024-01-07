@@ -1,0 +1,21 @@
+.resgistration__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 80vh;
+  }
+  
+  .resgistration__content {
+    display: flex;
+    flex-direction: column;
+    margin-top: 8rem;
+    align-items: center;
+    width: 60%;
+    height: 70%;
+    border: 1px solid #ccc;
+    padding: 2rem;
+  }
+  
+  .btn {
+    background-color: black;
+  }
